@@ -4,7 +4,7 @@
 ![CrewAI](https://img.shields.io/badge/Framework-CrewAI-FF5A50)
 ![OpenAI](https://img.shields.io/badge/LLM-GPT--4o-412991?logo=openai&logoColor=white)
 ![Platform](https://img.shields.io/badge/Runs%20on-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
-![Status](https://img.shields.io/badge/status-prototype-orange)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 A two-agent [CrewAI](https://www.crewai.com/) workflow that researches a YouTube creator and scores how well they fit a brand for an influencer partnership. A **Research Agent** gathers evidence from the web and YouTube, and a **Scoring Agent** turns that evidence into a 1–10 score with a written justification.
